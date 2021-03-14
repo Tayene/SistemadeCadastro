@@ -1,0 +1,8 @@
+br\com\tayenecarla\repository\UsuarioRepository.class
+br\com\tayenecarla\filters\AutenticacaoFilter.class
+br\com\tayenecarla\uteis\Uteis.class
+br\com\tayenecarla\filters\JPAFilter.class
+br\com\tayenecarla\usuario\controller\ConsultarUsuarioController.class
+br\com\tayenecarla\usuario\controller\UsuarioLoginController.class
+br\com\tayenecarla\model\UsuarioModel.class
+br\com\tayenecarla\repository\entity\UsuarioEntity.class
