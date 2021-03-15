@@ -43,20 +43,10 @@ public class UsuarioEntity implements Serializable {
 	@Column(name="ds_senha")
 	private String senha;
 	
-	@Column(name="ds_ddd")
-	private String ddd;
 	
 	@Column(name="ds_celular")
 	private String celular;
 
-	
-	public String getDdd() {
-		return ddd;
-	}
-
-	public void setDdd(String ddd) {
-		this.ddd = ddd;
-	}
 
 	public String getCelular() {
 		return celular;
